@@ -1,5 +1,3 @@
-import React from 'react'
+import Graph from './Graph'
 
-export default () => {
-  return <div>hello X6-ER</div>
-}
+export default Graph
