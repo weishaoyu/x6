@@ -1,2 +1,2 @@
-declare const _default: () => JSX.Element;
-export default _default;
+import Graph from './Graph';
+export default Graph;

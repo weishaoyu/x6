@@ -1,7 +1,7 @@
 import React from 'react';
 
-var index = (function () {
-  return React.createElement("div", null, "hello X6-ER");
-});
+var Graph = function Graph() {
+  return React.createElement("div", null, "Graph");
+};
 
-export default index;
+export default Graph;
