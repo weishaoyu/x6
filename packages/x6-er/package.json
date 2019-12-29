@@ -4,6 +4,9 @@
   "description": "",
   "main": "dist/index.js",
   "dependencies": {
+    "@antv/x6": "^0.2.4",
+    "@antv/x6-react-shape": "^0.1.1",
+    "dagre": "^0.8.5",
     "react": "^16.12.0"
   },
   "devDependencies": {
